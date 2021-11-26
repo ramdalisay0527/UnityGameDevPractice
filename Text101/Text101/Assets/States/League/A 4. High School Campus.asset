@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d29af4a0d51eb41bc8dff644b04e8eeb, type: 3}
+  m_Name: A 4. High School Campus
+  m_EditorClassIdentifier: 
+  storyText: 'You Drove to School and now you are ready for class. But your friends
+    see you down the hallway and invite you to skip class and go straight to the
+    basketball gym to shoot some hoops
+
+
+    What should you do?
+
+
+    1. Attend
+    class
+
+
+    2. Go with friends to shoot hoops'
+  nextStates:
+  - {fileID: 11400000, guid: bd5a51d7c7921464e8db1acf3eb377e4, type: 2}
+  - {fileID: 11400000, guid: a6baecceb7e5b4219b128006ab34f351, type: 2}

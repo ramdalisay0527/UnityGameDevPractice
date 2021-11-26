@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d29af4a0d51eb41bc8dff644b04e8eeb, type: 3}
+  m_Name: X 1. Game Over
+  m_EditorClassIdentifier: 
+  storyText: 'You have unable to help LeKobe Achieve his dream of becoming a professional
+    league player in the ABL.
+
+
+    Want to Try Again?
+
+    1. Yes, let''s run it
+    again
+
+    2. No thanks, i will move on'
+  nextStates:
+  - {fileID: 11400000, guid: 9ee85e17879484797873b2fd4a4ae181, type: 2}
+  - {fileID: 11400000, guid: d1ec3d6c7c65c4447aca795904957491, type: 2}

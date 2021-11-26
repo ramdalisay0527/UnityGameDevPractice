@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d29af4a0d51eb41bc8dff644b04e8eeb, type: 3}
+  m_Name: A 1 . Waking Up
+  m_EditorClassIdentifier: 
+  storyText: 'LeKobe Wakes up at 7 am and turns off his alarm Clock
+
+    Lekobe is
+    excited to go to class and have practice at the gym this arvo.
+
+
+    Lekobe gets
+    off his bed and decides to do what''s next:
+
+
+    Pick One:
+
+    1. Fix his bed
+
+    2.
+    Have Breakfast at the Kitchen'
+  nextStates:
+  - {fileID: 11400000, guid: 972e0c14a879d4fb2a7579df8f3805b4, type: 2}
+  - {fileID: 11400000, guid: 258ea62d83a60442ab4aa6b605530d50, type: 2}

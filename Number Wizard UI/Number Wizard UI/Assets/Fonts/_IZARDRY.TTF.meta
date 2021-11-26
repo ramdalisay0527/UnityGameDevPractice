@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: af48333fc59864d8eab3d9b5a664b8c5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Wizardry
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dd9fb8568ae9347fa97ec81b585609aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d29af4a0d51eb41bc8dff644b04e8eeb, type: 3}
+  m_Name: A 2. Fixing The Bed
+  m_EditorClassIdentifier: 
+  storyText: 'You Quickly Make your bed and realise that it''s all nice and tidy
+    now
+
+
+    what do you want to do next?
+
+
+
+    1. Get Breakfast
+
+
+    2. Skip
+    Breakfast and go straight to the school'
+  nextStates:
+  - {fileID: 11400000, guid: 972e0c14a879d4fb2a7579df8f3805b4, type: 2}
+  - {fileID: 11400000, guid: d572c6b4a8f3b42d798b3a780adbc224, type: 2}
